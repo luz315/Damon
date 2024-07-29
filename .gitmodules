@@ -1,0 +1,6 @@
+[submodule "damon-fe"]
+	path = damon-fe
+	url = https://github.com/luz315/damon-fe.git
+[submodule "damon-be"]
+	path = damon-be
+	url = https://github.com/luz315/damon-be.git
